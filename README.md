@@ -13,7 +13,7 @@ A simple implementation of univariate linear regression using gradient descent, 
 
 ### 1. Initial Hypothesis vs. Data
 
-![figure_1](https://github.com/gxstxxv/Univariate-Lineare-Regression/blob/main/plots/Figure_1.png)
+![figure_1](https://github.com/gxstxxv/Univariate-Lineare-Regression/blob/main/plots/Figure_1.png)<br>
 Shows the raw data points and an initial line estimate.
 
 ### 2. 3D Cost Function
